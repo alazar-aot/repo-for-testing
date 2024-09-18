@@ -1,0 +1,9 @@
+{
+    "root": "./",
+    "structure": {        
+        "readme": "changelog.md"
+    },
+    "ignore": [
+        "README.md"
+    ]
+}
