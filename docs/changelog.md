@@ -1,5 +1,5 @@
 ---
-title: Test Changelog
+title: Test Changelog - New Content!
 layout: changelog
 ---
 
